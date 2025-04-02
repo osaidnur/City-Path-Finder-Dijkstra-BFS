@@ -25,7 +25,7 @@ The simulator reads a list of cities and their connections from a text file, bui
   - Explore paths using BFS
   - Save results to output files
 
-## ⚙️ How It Works
+## ⚙ How It Works
 
 - **BFS** finds the path with the least number of edges.
 - **Dijkstra** computes the shortest weighted path using a priority-based greedy approach.
